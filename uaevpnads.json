@@ -3,15 +3,15 @@
    "AdsController": {
 
  
-    "AdInterval"          : 2,
-    "NativeAdRow"         : 2,
+    "AdInterval"          : 1,
+    "NativeAdRow"         : 3,
 
     
     "AdPlacement": {
       "HuaweiAppId"           : "110240065",
       "HuaweiBanner"          : "k3jg22617n",
       "HuaweiInterstitial"    : "d90mrbu5h9",
-      "HuaweiInterstitialHome": "d90mrbu5h9",
+      "HuaweiInterstitialHome": "x37wrv0r7l",
       "HuaweiReward"          : "h484qwkuov",
       "HuaweiSplash"          : "q5oxhxfl28",
       "HuaweiNative"          : "f7kp33u6bn"
